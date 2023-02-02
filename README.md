@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @housekore / José Jardel Luciano
-- 👀 I’m interested in Python and Cybersecurity
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m José Jardel Luciano
+- 👀 I’m interested in Information Security, Cybersecurity, Bug Bounty, Python and Javascript.
 - 💞️ I’m looking to collaborate on open source projetcs
 - 📫 How to reach me  https://www.linkedin.com/in/jose-jardel-lgpd-cybersecurity/
 <!---
